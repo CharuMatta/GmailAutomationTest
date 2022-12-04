@@ -53,8 +53,8 @@ Test folder:
    send_email_api.py:- This script will check scenario of sending an email using API
 
    #To run:-
-      cd automation_test
 
+      cd automation_test
       python3 test/login.py browser_name
       For Example:-
 
