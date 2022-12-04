@@ -1,0 +1,9 @@
+selenium==3.141.0
+configparser==5.0.1
+FIREFOX==83.0
+CHROME==108.0
+python-dotenv==0.21.0
+google-api-python-client==2.68.0
+oauth2client==4.1.3
+google-auth-oauthlib==0.7.1
+behave==1.2.6

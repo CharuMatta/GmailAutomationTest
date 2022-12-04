@@ -1,0 +1,281 @@
+1670123382335	geckodriver	INFO	Listening on 127.0.0.1:61386
+1670123383303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilefHqllc"
+1670123384967	Marionette	INFO	Marionette enabled
+1670123385022	Marionette	INFO	Listening on port 61394
+2022-12-04 16:09:45.083 plugin-container[40042:1478914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:09:45.083 plugin-container[40042:1478914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:09:45.137 plugin-container[40042:1478914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:09:45.137 plugin-container[40042:1478914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:09:45.137 plugin-container[40042:1478949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:09:45.137 plugin-container[40042:1478949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123385785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilefHqllc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1644624967%3A1670123388051872&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAsTxgUYcpNNL3hT7bdytWM2Wy3I1o-jlgw4oVakKxJzEOnKkYmlHAu4hOIjcD77Pahqf5Oo&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 5641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1254 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:09:58.097 plugin-container[40055:1479405] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:09:58.097 plugin-container[40055:1479405] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:09:58.101 plugin-container[40055:1479405] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:09:58.101 plugin-container[40055:1479405] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:09:58.101 plugin-container[40055:1479409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:09:58.101 plugin-container[40055:1479409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-pb8m_7yUKs.es5.O/am=Brhyb_B_CT8CAEQIEvn9duDPhIMl4AgHsMBOBiCcAMiMrKZ6b0JJ9v1IAgAgAN1fMRzjAEDQmsfA7_KEMBkAMAEAAAAAAAAAAAAAAAAAAABXKD8I/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ClgK33pqvyQGjPsjrj-qW5Khll5Q/cb=loaded_0/m=b, line 1058: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670123481698	geckodriver	INFO	Listening on 127.0.0.1:61516
+1670123482711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileVoKnyX"
+2022-12-04 16:11:23.352 plugin-container[40079:1480288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:23.352 plugin-container[40079:1480288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123483374	Marionette	INFO	Marionette enabled
+2022-12-04 16:11:23.382 plugin-container[40079:1480288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:23.382 plugin-container[40079:1480288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:11:23.383 plugin-container[40079:1480312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:23.383 plugin-container[40079:1480312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123483415	Marionette	INFO	Listening on port 61523
+1670123483734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileVoKnyX/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S403401819%3A1670123486205159&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAu2yA1XJidU2mLSVS3er68KM0WNnlHkEIojnpCaKqEUYHiEU6X_aY6_wQNAGp6oaxutSXYh&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 6382 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:11:36.599 plugin-container[40091:1480740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:11:36.599 plugin-container[40091:1480740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:11:36.603 plugin-container[40091:1480740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:11:36.603 plugin-container[40091:1480740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:11:36.603 plugin-container[40091:1480741] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:11:36.603 plugin-container[40091:1480741] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-pb8m_7yUKs.es5.O/am=Brhyb_B_CT8CAEQIEvn9duDPhIMl4AgHsMBOBiCcAMiMrKZ6b0JJ9v1IAgAgAN1fMRzjAEDQmsfA7_KEMBkAMAEAAAAAAAAAAAAAAAAAAABXKD8I/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ClgK33pqvyQGjPsjrj-qW5Khll5Q/cb=loaded_0/m=b, line 1058: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670123505734	geckodriver	INFO	Listening on 127.0.0.1:61605
+1670123506743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileLVa9V5"
+2022-12-04 16:11:47.272 plugin-container[40095:1480902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:47.272 plugin-container[40095:1480902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:11:47.278 plugin-container[40095:1480902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:47.278 plugin-container[40095:1480902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:11:47.278 plugin-container[40095:1480900] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:11:47.278 plugin-container[40095:1480900] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123507304	Marionette	INFO	Marionette enabled
+1670123507361	Marionette	INFO	Listening on port 61612
+1670123507773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileLVa9V5/search.json.mozlz4", (void 0)))
+1670123509400	Marionette	INFO	Stopped listening on port 61612
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1670123521079	Marionette	INFO	Stopped listening on port 61523
+1670123568175	geckodriver	INFO	Listening on 127.0.0.1:61650
+1670123569192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileDBuo7Q"
+2022-12-04 16:12:49.839 plugin-container[40122:1481909] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:12:49.840 plugin-container[40122:1481909] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123569861	Marionette	INFO	Marionette enabled
+2022-12-04 16:12:49.869 plugin-container[40122:1481909] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:12:49.869 plugin-container[40122:1481909] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:12:49.869 plugin-container[40122:1481933] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:12:49.870 plugin-container[40122:1481933] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123569901	Marionette	INFO	Listening on port 61657
+1670123570231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileDBuo7Q/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1812329262%3A1670123572694717&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAsGtDc3oaOFrCb0w7m6bRSirpu3u10f71WC8sb8gniuntNsvOs29iK9A7dwd8xI4_cukCYIJA&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 20 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:13:02.660 plugin-container[40136:1482391] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:13:02.660 plugin-container[40136:1482391] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:13:02.663 plugin-container[40136:1482391] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:13:02.663 plugin-container[40136:1482391] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:13:02.663 plugin-container[40136:1482394] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:13:02.663 plugin-container[40136:1482394] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-pb8m_7yUKs.es5.O/am=Brhyb_B_CT8CAEQIEvn9duDPhIMl4AgHsMBOBiCcAMiMrKZ6b0JJ9v1IAgAgAN1fMRzjAEDQmsfA7_KEMBkAMAEAAAAAAAAAAAAAAAAAAABXKD8I/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ClgK33pqvyQGjPsjrj-qW5Khll5Q/cb=loaded_0/m=b, line 1058: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670123591789	Marionette	INFO	Stopped listening on port 61657
+1670123727078	geckodriver	INFO	Listening on 127.0.0.1:61870
+1670123728095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofile47GIfy"
+2022-12-04 16:15:28.722 plugin-container[40278:1485547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:28.722 plugin-container[40278:1485547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:15:28.727 plugin-container[40278:1485547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:28.727 plugin-container[40278:1485547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:15:28.728 plugin-container[40278:1485554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:28.728 plugin-container[40278:1485554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123728735	Marionette	INFO	Marionette enabled
+1670123728767	Marionette	INFO	Listening on port 61877
+1670123729091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofile47GIfy/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1291734097%3A1670123731479354&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAsWCaVd7pgEujmOja67Es_9WtSLUIrJ6f3VacrSIP1Lfr4XrnE2ZT20CDzesGps5en_t4KW2Q&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 1519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6047 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:15:41.843 plugin-container[40293:1486000] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:15:41.843 plugin-container[40293:1486000] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:15:41.846 plugin-container[40293:1486000] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:15:41.846 plugin-container[40293:1486000] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:15:41.847 plugin-container[40293:1486003] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:15:41.847 plugin-container[40293:1486003] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123742448	Marionette	INFO	Stopped listening on port 61877
+1670123743091	geckodriver	INFO	Listening on 127.0.0.1:61941
+1670123744111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileREYnqD"
+2022-12-04 16:15:44.668 plugin-container[40296:1486137] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:44.668 plugin-container[40296:1486137] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:15:44.672 plugin-container[40296:1486137] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:44.672 plugin-container[40296:1486137] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:15:44.672 plugin-container[40296:1486135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:15:44.672 plugin-container[40296:1486135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123744697	Marionette	INFO	Marionette enabled
+1670123744737	Marionette	INFO	Listening on port 61948
+1670123745442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileREYnqD/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1225514116%3A1670123747582681&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAsOn5uI_J1XXB_aXG2PSnI1PklltikI03tOeznsMxIqykn_BLDAJUzn6akYYM1UzSGNrSiQkQ&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 7129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1670123758644	Marionette	INFO	Stopped listening on port 61948
+1670123759269	geckodriver	INFO	Listening on 127.0.0.1:61999
+1670123760287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileijkpva"
+2022-12-04 16:16:00.776 plugin-container[40311:1486753] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:00.776 plugin-container[40311:1486753] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:16:00.780 plugin-container[40311:1486753] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:00.780 plugin-container[40311:1486753] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:16:00.780 plugin-container[40311:1486759] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:00.780 plugin-container[40311:1486759] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123760801	Marionette	INFO	Marionette enabled
+1670123760832	Marionette	INFO	Listening on port 62006
+1670123761184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileijkpva/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-939152759%3A1670123763538183&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAsBJX2Ex-X4-QLodUd4dEor8wLJxefC6lKZJL7FgAULKzkfqCJS4WhVv-8sw3qQ9ZQa0YwEHA&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 4212 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670123771231	Marionette	INFO	Stopped listening on port 62006
+1670123785608	geckodriver	INFO	Listening on 127.0.0.1:62068
+1670123785618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileHHDoqH"
+2022-12-04 16:16:26.152 plugin-container[40333:1487661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:26.152 plugin-container[40333:1487661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:16:26.155 plugin-container[40333:1487661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:26.155 plugin-container[40333:1487661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:16:26.156 plugin-container[40333:1487669] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:16:26.156 plugin-container[40333:1487669] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123786173	Marionette	INFO	Marionette enabled
+1670123786207	Marionette	INFO	Listening on port 62073
+1670123786706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileHHDoqH/search.json.mozlz4", (void 0)))
+1670123823924	geckodriver	INFO	Listening on 127.0.0.1:62112
+1670123824949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilemT7fFl"
+2022-12-04 16:17:05.655 plugin-container[40356:1488350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:17:05.655 plugin-container[40356:1488350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123825671	Marionette	INFO	Marionette enabled
+2022-12-04 16:17:05.679 plugin-container[40356:1488350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:17:05.679 plugin-container[40356:1488350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:17:05.680 plugin-container[40356:1488358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:17:05.680 plugin-container[40356:1488358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123825708	Marionette	INFO	Listening on port 62119
+1670123826097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilemT7fFl/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S252664066%3A1670123828465937&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAuDCz0RwW5VlFC8olq07c3IFwih3B-xDY-4i_1vZU3d9EMrWpb2k3aM45XxZw5Rkjjel9gqcg&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 5075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:17:18.955 plugin-container[40371:1488841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:17:18.955 plugin-container[40371:1488841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:17:18.958 plugin-container[40371:1488841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:17:18.958 plugin-container[40371:1488841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:17:18.959 plugin-container[40371:1488842] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:17:18.959 plugin-container[40371:1488842] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123844774	Marionette	INFO	Stopped listening on port 62119
+1670123913771	geckodriver	INFO	Listening on 127.0.0.1:62211
+1670123914804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileMYJVUq"
+2022-12-04 16:18:35.464 plugin-container[40392:1489582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:18:35.464 plugin-container[40392:1489582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123915484	Marionette	INFO	Marionette enabled
+2022-12-04 16:18:35.491 plugin-container[40392:1489582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:18:35.491 plugin-container[40392:1489582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:18:35.491 plugin-container[40392:1489591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:18:35.491 plugin-container[40392:1489591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123915518	Marionette	INFO	Listening on port 62218
+1670123915956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileMYJVUq/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-721347514%3A1670123918214931&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAvXybqo4YiB7HJgqDq2JqytEpw12bC5N9uv0GNmaN8iOqgxcA_tYd9lpOjpr10wcoc5REmV&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1275 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:18:48.740 plugin-container[40405:1490049] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:18:48.740 plugin-container[40405:1490049] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:18:48.743 plugin-container[40405:1490049] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:18:48.743 plugin-container[40405:1490049] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:18:48.743 plugin-container[40405:1490052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:18:48.744 plugin-container[40405:1490052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123934561	Marionette	INFO	Stopped listening on port 62218
+1670123969735	geckodriver	INFO	Listening on 127.0.0.1:62303
+1670123969749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileUIdP4Y"
+2022-12-04 16:19:30.211 plugin-container[40417:1490517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:19:30.211 plugin-container[40417:1490517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:19:30.214 plugin-container[40417:1490517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:19:30.215 plugin-container[40417:1490517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:19:30.215 plugin-container[40417:1490519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:19:30.215 plugin-container[40417:1490519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670123970238	Marionette	INFO	Marionette enabled
+1670123970280	Marionette	INFO	Listening on port 62308
+1670123970652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofileUIdP4Y/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2046291833%3A1670123973727006&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAs0tTZ_qmStMLCONXApqGCezngknH-Xt2IegyUOt8szrg5IApr8MWDRjVacqO-02CZ2atE0Yw&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 6334 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 3981 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:19:44.256 plugin-container[40434:1491048] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:19:44.256 plugin-container[40434:1491048] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:19:44.261 plugin-container[40434:1491048] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:19:44.261 plugin-container[40434:1491048] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:19:44.261 plugin-container[40434:1491047] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:19:44.261 plugin-container[40434:1491047] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-pb8m_7yUKs.es5.O/am=Brhyb_B_CT8CAEQIEvn9duDPhIMl4AgHsMBOBiCcAMiMrKZ6b0JJ9v1IAgAgAN1fMRzjAEDQmsfA7_KEMBkAMAEAAAAAAAAAAAAAAAAAAABXKD8I/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ClgK33pqvyQGjPsjrj-qW5Khll5Q/cb=loaded_0/m=b, line 1058: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+1670123990448	Marionette	INFO	Stopped listening on port 62308
+1670124019292	geckodriver	INFO	Listening on 127.0.0.1:62392
+1670124019304	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilevC3SB1"
+2022-12-04 16:20:19.841 plugin-container[40444:1491504] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:20:19.841 plugin-container[40444:1491504] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:20:19.845 plugin-container[40444:1491504] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:20:19.845 plugin-container[40444:1491504] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 16:20:19.845 plugin-container[40444:1491509] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 16:20:19.845 plugin-container[40444:1491509] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670124019862	Marionette	INFO	Marionette enabled
+1670124019904	Marionette	INFO	Listening on port 62397
+1670124020211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mk/r8x_d5cd2pncvy1wt2ylyj8c0000gn/T/rust_mozprofilevC3SB1/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1863131753%3A1670124022680096&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARgdvAs1qDREpSrdN3vBfAqmxhISUFacgyKWlUCPhJvkicgW42LvSW4KIA_kqa0dYgjHXVFhG0QfwA&osid=1&passive=1209600&service=mail line 532 > injectedScript line 2 > eval line 7769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670124025250	Marionette	INFO	Stopped listening on port 62073
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.google.com/js/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 5383 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-04 03:20:32.911 plugin-container[40461:1492060] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:20:32.911 plugin-container[40461:1492060] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:20:32.915 plugin-container[40461:1492060] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:20:32.915 plugin-container[40461:1492060] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-04 03:20:32.916 plugin-container[40461:1492062] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-04 03:20:32.916 plugin-container[40461:1492062] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-pb8m_7yUKs.es5.O/am=Brhyb_B_CT8CAEQIEvn9duDPhIMl4AgHsMBOBiCcAMiMrKZ6b0JJ9v1IAgAgAN1fMRzjAEDQmsfA7_KEMBkAMAEAAAAAAAAAAAAAAAAAAABXKD8I/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9ClgK33pqvyQGjPsjrj-qW5Khll5Q/cb=loaded_0/m=b, line 1058: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670124045470	Marionette	INFO	Stopped listening on port 62397
