@@ -10,6 +10,7 @@ For Linux:- Install Python3- sudo apt install python3,
 pip3 install -r requirements.txt
 
 #Introduction
+
 Credential folder:-
 
    credentials.json:- This file is the credential for google Api which we are using "send_email_api.py" file
@@ -44,6 +45,7 @@ Features folder:-
       behave **/send_email.feature
 
 Test folder:
+
    login.py:- This script will validate user login to Gmail
 
    send_email.py:- This script will check scenario of sending an email using UI(Selenium) functionality.
@@ -52,7 +54,7 @@ Test folder:
 
    #To run:-
       cd automation_test
-      
+
       python3 test/login.py browser_name
       For Example:-
 
