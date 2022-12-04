@@ -30,17 +30,17 @@ Features folder:-
       behave **/send_email.feature
 
 Test folder:
-   login.py:- This script will validate user login to Gmail
+   login.py:- This script will validate user login to Gmail/n
    send_email.py:- This script will check scenario of sending an email using UI(Selenium) functionality.
    send_email_api.py:- This script will check scenario of sending an email using API
    #To run:-
       cd automation_test
       python3 test/login.py browser_name
       For Example:-
-         python3  test/login.py chrome
-         python3 test/login.py firefox
-         python3 test/send_email.py chrome
-         python3 test/send_email.py firefox
+         To run login.py- python3  test/login.py chrome
+         To run login.py- python3 test/login.py firefox
+         To run send_email.py- python3 test/send_email.py chrome
+         To run send_email.py- python3 test/send_email.py firefox
 
       To run send_email_api.py- python3 test/send_email_api.py
 
