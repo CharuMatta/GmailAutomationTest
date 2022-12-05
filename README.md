@@ -7,7 +7,7 @@ For Linux:- Install Python3- sudo apt install python3,
    Now type python, if you getting python-not found.
    Type- sudo apt-get install python-is-python3
 
-# Using chrome version FIREFOX==83.0 and CHROME==108.0
+#Using chrome version FIREFOX==83.0 and CHROME==108.0
 
 pip3 install -r requirements.txt
 
@@ -70,11 +70,11 @@ pip3 install -r requirements.txt
 
       To run send_email_api.py- python3 test/send_email_api.py
 
-# Test Cases.xlsx:- This ifile contains all the scenario for test folder
+#Test Cases.xlsx:- This ifile contains all the scenario for test folder
 
-# Note:- Using .env file for passwords.
+#Note:- Using .env file for passwords.
 
-# Note:- There is a video of working test cases with the name-automation_video 
+#Note:- There is a video of working test cases with the name-automation_video 
 
 
 
